@@ -1,6 +1,7 @@
-# TCC Store
+![TCC Store](https://github.com/brunoak/TCC-Store/blob/master/icones/logo.png)
 
 ## O que é?
+
 Esse repositório é um sistema de hospedagem de TCCs realizado no curso técnico de Desenvolvimento de Sistemas.
 Nesse projeto é possivel baixar,compartilhar e alterar os projetos de conclusão de curso, o foco dele é a turma da noite do curso técnico, mas melhorias virão para abranger outras instituições de ensino além da ETEC de Heliopólis.
 
@@ -11,3 +12,11 @@ Nesse projeto é possivel baixar,compartilhar e alterar os projetos de conclusã
 3. Coloque a pasta do TCC Store dentro da pasta htdocs do XAMPP.
 4. Inicie XAMPP e Starte o Apache e o Mysql, abra o navegador e digite localhost e o nome da pasta do TCC Store
 5. O login e senha para entrar no Sistema é **adm**
+
+## Tecnologias usadas
+
+* PHP
+* MySQL
+* HTML
+* CSS
+* Bootstrap
